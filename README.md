@@ -9,3 +9,31 @@
 
 <hr>
 
+## Segurança da informação
+
+- Por que existe?
+    - Informação
+        - Um dos ativos mais importantes para as empresas no dia de hoje
+        -
+    - Segurança
+        - Tudo que é importante tem que ser protegido
+        - Protocolos;
+        - Pilares
+            - Confidencialidade, integridade e disponibilidade.
+        - Processos
+        - Mecanismo
+            - Criptografia;
+            - Segurança física;
+            - Firewall;
+            - Controle de acesso;
+            - Etc.    
+- Áreas 
+    - Desenvolvimento;
+    - Ofensiva;
+    - Gestão;
+    - Pesquisa;
+    - Monitoramento;
+    - Investigação;
+    - Redes;
+- Ética
+
