@@ -67,6 +67,9 @@
 - Exploit Database;
 - Try Hack Me;
 - Burp Suite;
+- Hacker the box;
+- Have i been pwned?
+- 
 
 ## Comandos
 ```
