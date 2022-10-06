@@ -36,4 +36,51 @@
     - Investigação;
     - Redes;
 - Ética
+    - Código de ética
+    - Lado
+        - Chápeu
+            - black hat
+                - Criminoso.
+            - Gray hat
+                - Se não for bem pago expoen as informações.
+            - White hat
+                - Hacker ético.
+
+## Ofensiva
+- PTES(Penetration Test Execution Standard).
+    - Pre-engagament interactions;
+    - Intekigence gathering;
+    - Threat Modeling;
+    - Vulnerability Analysis;
+    - Reporting.
+    - Coletar as informações;
+        -
+    - Analisar
+        - Verificar se os dados coletados estçao ativos;
+        - Verificar serviços;
+        - Ferramentas;
+        - Analisar possíveis vulnerabilidades.    
+    - Explorar
+        -  
+-               
+## Sites
+- Exploit Database;
+- Try Hack Me;
+- Burp Suite;
+
+## Comandos
+```
+-d faculdadefacec.edu.br -b google 
+```
+```
+nmap localhost
+```
+```
+nmap -sV localhost
+```
+
+## Scan de site wordpress
+```
+wpsan --url <URL>
+```
 
